@@ -35,7 +35,7 @@ a{
  }
 
  .banner{
-	background-image: url(/images/background.jpg);
+	background-image: url(images/background.jpg);
 	opacity: 0.8;
 	color: white;
 	background-size: cover;
